@@ -9,7 +9,7 @@ This project is a machine learning-based system for predicting whether a person 
 
 ## 📂 Project Structure
 
-* `diabetes_prediction.py`: The main Python script implementing the end-to-end pipeline.
+* `Diabetes_Prediction.py`: The main Python script implementing the end-to-end pipeline.
 * Dataset: Assumes the file `diabetes.csv` is available in the working directory.
 
 ## 📊 Dataset
@@ -49,7 +49,7 @@ pip install numpy pandas scikit-learn
 2. Run the Python script:
 
 ```bash
-python project_3_diabetes_prediction.py
+python Diabetes_Prediction.py
 ```
 
 3. The script will:
