@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-Here’s a `README.md` file for your **Diabetes Prediction** project using the PIMA dataset and an SVM model:
+**Diabetes Prediction** project using the PIMA dataset and an SVM model:
 
 ---
 
@@ -9,7 +9,7 @@ This project is a machine learning-based system for predicting whether a person 
 
 ## 📂 Project Structure
 
-* `project_3_diabetes_prediction.py`: The main Python script implementing the end-to-end pipeline.
+* `diabetes_prediction.py`: The main Python script implementing the end-to-end pipeline.
 * Dataset: Assumes the file `diabetes.csv` is available in the working directory.
 
 ## 📊 Dataset
